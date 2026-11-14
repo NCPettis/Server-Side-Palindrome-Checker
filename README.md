@@ -22,7 +22,7 @@ A simple palindrome checker where users can check if a word or phrase is a palin
 
 
 ## Screenshots and Demo
-Live link: 
+Live link: https://server-side-palindrome-checker.onrender.com/
 
 ### Application Interface
 
