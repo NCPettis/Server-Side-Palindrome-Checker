@@ -1,3 +1,73 @@
-h1{
-    color: red;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+h1 {
+    color: #2E5C37;
+    text-align: center;
+    margin-bottom: 0.5em;
+    text-decoration: underline;
+}
+
+
+button{
+  color: white;
+  border-radius: 5px;
+  border: 2px solid #EDF607;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 10px;
+  background-color: #2E5C37;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+input{
+  /* color: white; */
+  border-radius: 5px;
+  border: 2px solid #EDF607;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  /* background-color: #2E5C37; */
+}
+
+header {
+    /* border: 5px solid red; */
+    /* display: flex;
+    align-content: center; */
+    padding-bottom: 1em;
+}
+
+.gamebox {
+    /* border: 5px solid blue; */
+    text-align: center;
+}
+
+
+body {
+    height: 100vh;
+    border: 5px solid #2E5C37;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fae0c7;
+    /* background-image: url("../CoinFlipbackground.jpg"); */
+    /* overflow: hidden; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: left; */
+    /* background: linear-gradient(to bottom,  #333 , black); */
+
+}
+
+
+
+button {
+    margin-bottom: 1em;
+}
+
